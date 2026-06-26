@@ -100,7 +100,7 @@ php -S localhost:8000
 6. Buka browser dan akses:
 
 ```text
-http://localhost:8000
+http://localhost:8000 atau http://localhost:8000/login.php
 ```
 
 ---
